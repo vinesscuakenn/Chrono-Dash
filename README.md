@@ -30,7 +30,7 @@ A fast-paced survival game built with Pygame. Navigate through time gates while 
 - Press **R** to restart after a game over.
 
 ## Support the Project
-Enjoy Chrono Dash? Help keep the project alive and fund new features like leaderboards, new obstacle patterns, or enhanced visuals! Support me on [GitHub Sponsors](https://github.com/sponsors/your-username).
+Enjoy Chrono Dash? Help keep the project alive and fund new features like leaderboards, new obstacle patterns, or enhanced visuals! Support me on [GitHub Sponsors](https://github.com/sponsors/vinesscuakenn).
 
 ## Roadmap
 - Add online leaderboard for global scores
